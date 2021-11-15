@@ -1,1 +1,1 @@
-# GeekBrains homework Java level 2
+# GB Java Homework8 JavaFX Online chat - auth timeout
